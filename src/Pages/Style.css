@@ -1,0 +1,184 @@
+.banner{
+    background-image: url(../Assets/img2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+    color: white;
+    display: flex;
+    align-items: flex-end;
+    padding-left: 4%;
+    padding-bottom: 4%;
+    margin-bottom: 30px;
+    
+}
+.ban1{
+    font-family: italic;
+    font-weight: 700;
+    font-size: 70.11px;
+    letter-spacing: 0;
+}
+.ban2{
+    font-family: italic;
+    font-weight: 700;
+    font-size: 70.11px;
+    letter-spacing: 0;
+}
+.pro {
+    display: flex;
+    padding: 0;
+    margin: 0;
+    gap: 20px;
+
+    justify-content: space-around;
+    
+}
+.pro1 {
+  list-style-type: none;
+  
+}
+ .pro2 {
+  list-style-type: none;
+}
+.pro3 {
+  list-style-type: none;
+}
+.btn1{
+    background-color: red;
+    width: 150%;
+    height: 3cap;
+}
+.btn2{
+    background-color: red;
+    width: 150%;
+    height: 3cap;
+}
+.btn3{
+    background-color: red;
+    width: 150%;
+    height: 3cap;
+}
+.plan{
+    margin-bottom: 40px;
+}
+.pro5{
+    margin-bottom: 10px;
+}
+.pros{
+    margin-bottom: 20px;
+}
+
+.amount {
+  font-size: 32px;
+  font-weight: bold;
+  
+}
+.pro1 li {
+  margin-bottom: 10px; 
+}
+.per {
+  font-size: 16px;
+  color: #777; 
+  margin-left: 4px;
+  
+}
+.red{
+    color: red;
+}
+.jbtn{
+    background-color: red;
+    height: 53px;
+    width: 152px;
+}
+.f1{
+    font-family: oswald;
+    font-weight: 700;
+    font-size: 48px;
+    margin-bottom: 30px; 
+    
+}
+.red{
+    font-family: oswald;
+    font-weight: 700;
+    font-size: 48px;
+}
+.f2{
+    font-family: oswald;
+    font-weight: 50;
+    font-size: 28px;
+    margin-bottom: 20px; 
+    color: #666666;
+    
+}
+.overall{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:50px;
+    padding: 40px 100px;
+
+}
+.footer{
+  /* background-video: url(../Assets/track.mp4); */
+  margin-bottom: 50Px;
+  color: white;
+  margin: 0;
+  padding: 0;
+  height: 40vh; 
+  display: flex;
+  gap:10px;
+  justify-content: space-around;
+  
+}
+.ug1{
+    list-style-type:none;
+    padding: 0;
+    margin: 0;
+  
+}
+.ug1 li {
+  margin-bottom: 10px; 
+}
+.ug2{
+    list-style-type:none;
+}
+.ug2 li {
+  margin-bottom: 10px; 
+}
+.end1{
+background-color: black;
+color: white;
+
+
+}
+.butt{
+    background-color:red;
+    height: 8%;
+    width: 20%; 
+}
+.inp{
+     height: 7%;
+    width: 75%; 
+    /* background-color: #777; */
+    background-color:#222222;
+    opacity: 1; 
+    border: none;
+  
+  padding: 10px;
+}
+inp::placeholderr{
+    color:black; 
+  /* opacity: 5;  */
+}
+
+.para{
+    margin-bottom: 20px; 
+}
+.icons{
+    margin-bottom: 10px; 
+}
+.end1{
+    
+    padding: 4%;
+}
