@@ -426,3 +426,190 @@ margin-top: 20px;
 .gear {
   width: 100%;
 }
+
+.navbar-btn{
+   display: flex;
+   display: row;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: white;
+    border: none;
+    height: 45px;
+    position: fixed;
+    width: 100%;
+    z-index: 1  ;
+    margin-left:-20px;
+ 
+  
+    
+}
+.btn1{
+
+    margin-right: 30px;
+    margin-left: 70px;
+    color: #E10600;
+    height: 45px;
+    border: none;
+    background-color: white;
+    font-size:x-large;
+
+
+}
+.btn2{
+
+    margin-right: 30px;
+    height: 45px;
+    border: none;
+    background-color: white;
+   
+    
+}
+.btn3{
+
+    margin-right: 30px;
+    height: 45px;
+    border: none;
+    background-color: white;
+    
+    
+}
+.btn4{
+
+    margin-right: 30px;
+    height: 45px;
+    border: none;
+    background-color: white;
+    
+    
+}
+.btn5{
+
+    margin-right: 30px;
+    height: 45px;
+    border: none;
+    background-color: white;
+   
+    
+}
+.btn5{
+
+    margin-right: 30px;
+    height: 45px;
+    border: none;
+    background-color: white;
+   
+    
+}
+.btn6{
+
+    margin-right: 30px;
+    height: 45px;
+    border: none;
+    background-color: white;
+   
+    
+}
+.btn7{
+    background-color: #E10600;
+    color: black;
+    font: oblique;
+    height: 45px;
+    border: none;
+    color: white;
+    width: 90px;;
+    margin-right: 50px;
+   
+}
+.banner{
+    width: 100%;
+    overflow: hidden;
+}
+
+ 
+.ace{
+    color:#E10600;
+    position:relative;
+    
+}
+.banner{
+    background-image: url(./Assets/homeimage.png);
+background-size: cover;
+background-repeat: no-repeat;
+height: 100vh;
+width:100%;
+
+
+}
+.banner-image{
+    margin-top: 22rem;
+    margin-left: 11rem;
+    bottom: 12rem;
+    color: antiquewhite;
+    margin-bottom: 10px;
+}
+.banner-image2{
+    margin-left: 11rem;
+    bottom: 12rem;
+}
+  
+.banner h1{
+    font-size: 100px;
+}
+.banner button{
+    width: 200px;
+    height: 50px;
+    background-color: #E10600;
+    color:white;
+    border :none;
+}   
+.community{
+    margin-top: 60px;
+    margin-left: 145px;
+    width: 80%;
+    display: flex;
+    direction: row;
+    gap:50px;
+
+    
+}
+.community-text{
+    margin-left: 100px;
+}
+.community img{
+    width: 582px;
+    height: 600px;
+}
+.community h1{
+    font-size: 96px;
+    font-weight: 700;
+    ;
+}
+.community p{
+    font-size: 30px;
+    font-weight: 200;
+    font-size: 40px;
+}
+.community-text2{
+        width: 570px;
+        height: 570px;
+       
+        
+       
+}
+.raceline-txt{
+    color: #dd110a;
+    font: bold;
+}
+.Ourstory{
+    color: #E10600;
+    font-weight: 700;
+    font-size: 10px;
+    font-style: oblique;
+ 
+    margin-top: 0;
+}
+.para{
+    opacity: 0.6;
+    width: 581px;
+    height: 579px;
+}
